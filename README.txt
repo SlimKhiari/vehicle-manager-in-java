@@ -1,4 +1,4 @@
-Notice d'utilisation du projet Java - KHIARI Slim
+C'est une application en java pour gérer les véhicules d'un concessionnaire automobile.
 
 Cette notice sert à comprendre comment se servir du projet Java.
 
