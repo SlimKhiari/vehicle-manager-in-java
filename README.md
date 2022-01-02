@@ -31,5 +31,6 @@ Projet réalisé par KHIARI Slim dans le cadre du projet Java en IATIC3 à l'IST
 
 ![Capture](https://user-images.githubusercontent.com/73532355/147876545-18f98c88-dc4a-4202-a45c-05fc131382d0.JPG)
 
-![Capture](https://user-images.githubusercontent.com/73532355/147876676-71dab613-ef22-43c7-a7d1-6f943257478a.JPG)
+![Capture](https://user-images.githubusercontent.com/73532355/147876717-4cfd3437-348f-4520-b769-ee3010223de1.JPG)
+
 
