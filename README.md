@@ -12,7 +12,7 @@ Cette notice sert à comprendre comment se servir du projet Java.
 Afin de lancer le programme, il faut exécuter le fichier : Main.java (le controlleur)
 
 2) Comment trouver le controlleur (Main.java) ?
-Main.java dans le dossier .zip. Voici son path : miniprojetSlim.zip\miniprojetSlim\src\miniprojet.
+Main.java dans le dossier .zip. Voici son chemin : gestionnaireVehicules\miniprojetSlim\src\miniprojet\Main.java.
 
 3) Composition du projet
 Le projet est composer de trois parties principales : controlleur (Main.java) / modele (vehicule.java / autos.java  / motos.java / camions.java / sauvegarder.java) / vue (fenetrePrincipale.java / TableauGraphique.java).
