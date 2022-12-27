@@ -1,15 +1,12 @@
-C'est une application en java (mvc) pour gérer les véhicules d'un concessionnaire automobile.
+It's a java application (mvc) to manage the vehicles of a car dealership.
 
-Cette notice sert à comprendre comment se servir du projet Java.
+This notice is used to understand how to use the Java project.
 
-Comment lancer le programme?
-Afin de lancer le programme, il faut exécuter le fichier : Main.java (le controlleur)
+How to launch the program? In order to launch the program, you must execute the file: Main.java (the controller)
 
-Comment trouver le controlleur (Main.java) ?
-Voici son chemin : gestionnaireVehicules\miniprojetSlim\src\miniprojet\Main.java.
+How to find the controller (Main.java)? Here is its path: managerVehicles\miniprojectSlim\src\miniproject\Main.java.
 
-Composition du projet :
-Le projet est composé de 3 parties principales : controlleur (Main.java) / modele (vehicule.java / autos.java  / motos.java / camions.java / sauvegarder.java) / vue (fenetrePrincipale.java / TableauGraphique.java).
+Composition of the project: The project is made up of 3 main parts: controller (Main.java) / model (vehicule.java / cars.java / motorcycles.java / trucks.java / save.java) / view (mainwindow.java / GraphicTable .Java).
 
 ![Capture](https://user-images.githubusercontent.com/73532355/147876545-18f98c88-dc4a-4202-a45c-05fc131382d0.JPG)
 
